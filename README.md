@@ -1,2 +1,0 @@
-# cpuCacheSim
-CPU cache simulator
